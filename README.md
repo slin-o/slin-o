@@ -56,8 +56,6 @@ I'm excited to connect with other devs, contribute to cool projects, or explore 
 
 <!-- Easily make the README more hireable by uncommenting the box above and adding more details! -->
 
----
-
 <!--
 **slin-o/slin-o** is a ✨special✨ repository because its `README.md` appears on your GitHub profile.
 -->
