@@ -17,9 +17,9 @@
 
 ### 🚀 Projects
 
-- **[Kaia App](https://github.com/slin-o/Kaia-App)**  
-  A multi-featured app showcasing my skills in Python (Flask), HTML, CSS, TypeScript, and more.
-- **Spigot Workstation Plugin**  
+- **Kaia-App**  
+  Private project for dog activity tracking
+- **Spigot Better-Workstations Plugin**  
   A simple Minecraft plugin that lets you open workstations (anvil, crafting table, enderchest) without placing the block—just for convenience!
 
 ---
