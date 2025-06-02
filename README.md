@@ -3,14 +3,13 @@
 -->
 
 <h1 align="center">Hi, I'm slin-o! 🐾</h1>
-<p align="center"><i>Climbing new heights in code & life</i></p>
 
 ---
 
 ### 👋 About Me
 
 - 🎓 Student passionate about building and learning.
-- 🐶 Currently tinkering on a private project for dog activity tracking (walks & feedings).
+- 🐶 Currently working on a private project for dog activity tracking (walks & feedings).
 - 💡 Always looking for the next challenge or collaboration.
 
 ---
@@ -19,8 +18,8 @@
 
 - **Kaia-App**  
   Private project for dog activity tracking
-- **Spigot Better-Workstations Plugin**  
-  A simple Minecraft plugin that lets you open workstations (anvil, crafting table, enderchest) without placing the block—just for convenience!
+- **[Spigot Better-Workstations Plugin](https://github.com/slin-o/Better-Workstations)**  
+  A simple Minecraft plugin that lets you open workstations (anvil, crafting table, enderchest) without placing the block just for convenience!
 
 ---
 
