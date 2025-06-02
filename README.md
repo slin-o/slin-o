@@ -24,15 +24,17 @@
 ### 💻 Tech Stack
 
 <p>
-        <img src="https://unsignia.io/logo/python?variant=original-wordmark&height=50" />
-        <img src="https://unsignia.io/logo/flask?variant=original-wordmark&height=50&background=lightgray" />
-        <img src="https://unsignia.io/logo/typescript?variant=original-wordmark&height=50" />
-        <img src="https://unsignia.io/logo/jquery?variant=original-wordmark&height=50&background=lightgray" />
-        <img src="https://unsignia.io/logo/java?variant=original-wordmark&height=50&background=lightgray" />
-        <img src="https://unsignia.io/logo/docker?variant=original-wordmark&height=50" />
-        <img src="https://unsignia.io/logo/html5?variant=original-wordmark&height=50" />
-        <img src="https://unsignia.io/logo/css3?variant=original-wordmark&height=50" />
-        <img src="https://unsignia.io/logo/sqlite?variant=original-wordmark&height=50&background=lightgray" />
+  <img src="https://unsignia.io/logo/python?variant=original-wordmark&height=50" />
+  <img src="https://unsignia.io/logo/flask?variant=original-wordmark&height=50&background=lightgray" />
+  <img src="https://unsignia.io/logo/typescript?variant=original-wordmark&height=50" />
+  <img src="https://unsignia.io/logo/jquery?variant=original-wordmark&height=50&background=lightgray" />
+  <img src="https://unsignia.io/logo/java?variant=original-wordmark&height=50&background=lightgray" />
+  <img src="https://unsignia.io/logo/docker?variant=original-wordmark&height=50" />
+  <img src="https://unsignia.io/logo/html5?variant=original-wordmark&height=50" />
+  <img src="https://unsignia.io/logo/css3?variant=original-wordmark&height=50" />
+  <img src="https://unsignia.io/logo/sqlite?variant=original-wordmark&height=50&background=lightgray" />
+  <img src="https://unsignia.io/logo/git?variant=original-wordmark&height=50&background=lightgray" />
+  <img src="https://unsignia.io/logo/github?variant=original-wordmark&height=50&background=lightgray" />
 </p>
 
 ---
